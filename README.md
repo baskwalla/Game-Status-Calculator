@@ -21,6 +21,11 @@
 3. Platforms
 4. Data storage
 
+### Future Versions
+1. User Accounts
+2. Save information to user accounts
+3. Save matches and games won/lost and the players associatied with those matches (whether they have an account or not)
+
 ## Introduction
 
 ### Preamble
@@ -46,7 +51,10 @@ It is the mission of the application described in this document to make the trac
 
 ### Game and Match Results
 
+1. Keep track of games and matches won
+
 ### Settings and Defaults
+
 Default first player name, Commander title
 
 ### Multiple Players
