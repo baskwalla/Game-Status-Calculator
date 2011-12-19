@@ -41,6 +41,9 @@ It is the mission of the application described in this document to make the trac
 
 ### Commanders
 
+1. A player can apply Commander damage to the calculator UI
+2. When the player applies damage from a Commander they can add the Commander name via text input, with autocomplete
+
 ### Game and Match Results
 
 ### Settings and Defaults
