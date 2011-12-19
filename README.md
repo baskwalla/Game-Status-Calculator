@@ -5,6 +5,7 @@
 ### Introduction
 1. Mission
 2. Preamble
+
 ### Functional Requirements
 1. Player Settings and Controls
 2. Poison Counters
@@ -13,6 +14,7 @@
 5. Settings
 6. Multiple Players
 7. Auto-complete
+
 ### Technical Requirements
 1. Device types
 2. Technical availability
