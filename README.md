@@ -42,7 +42,10 @@ It is the mission of the application described in this document to make the trac
 1. A player can provide a name to identify themselves with respect to the game information being stored
 2. A player can increase or decrease their life total. Life total input shall be validated
 3. A player can reset the game to the default set of values.
+
 ### Poison Counters
+
+1. A player can apply Poison counters to the calculator UI
 
 ### Commanders
 
